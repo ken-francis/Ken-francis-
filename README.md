@@ -35,4 +35,9 @@ I use this space to document my journey, share projects, and track my progress a
 - **GitHub:** [ken-francis](https://github.com/ken-francis)  
 - **Email:** kennedynyoro1@gmail.com
 
----
+------
+
+### 📊 GitHub Stats  
+![Ken Francis' GitHub stats](https://github-readme-stats.vercel.app/api?username=ken-francis&show_icons=true&theme=dark)  
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ken-francis&layout=compact&theme=dark)
